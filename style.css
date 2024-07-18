@@ -1,15 +1,12 @@
 html {
   height: 100%;
   width: 100%;
-}
-body{
-background-image: url('starvation2.jpg';
-}
-
-
 body {
 
-	background-image: url('starvation.png'); (url for image background)
-
+  background-image: url('starvation2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
+
 
